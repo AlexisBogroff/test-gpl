@@ -1,3 +1,4 @@
 Local change
 Remote change
+Local 2
 Remote 2
